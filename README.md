@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RezaAsadi
-- 👀 I’m interested in 
+- 👀 I’m interested in Sec | AWS 
 - 🌱 I’m currently learning DevOps
 - 📫 You can get in touch with me by @rez4sadi telegram account
