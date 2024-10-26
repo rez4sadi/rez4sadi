@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RezaAsadi
-- 👀 I’m interested in Sec | Azure | DevOps
+- 👀 I’m interested in DevOps| Azure |
 - 🌱 I’m currently learning Kubernetes
 - 📫 You can get in touch with me by @rez4sadi telegram account
